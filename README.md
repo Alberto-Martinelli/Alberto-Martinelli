@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Alberto!
 
-Find me at: [Linkedin]([https://link-url-here.org](https://www.linkedin.com/in/alberto-martinelli44))
+Find me at: [Linkedin]([https://link-url-here.org](https://www.linkedin.com/in/alberto-martinelli44))!
 
 <!--
 **Alberto-Martinelli/Alberto-Martinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
